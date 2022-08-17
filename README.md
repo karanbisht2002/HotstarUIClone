@@ -15,10 +15,13 @@ A Short Description of Moview And Can Watch From Here.
 
 Movies According to Categories like Comedy,Drama,Horror,Romantic etc.
 
+![Screenshot_2022-08-17-20-40-56-394_com example hotstarui](https://user-images.githubusercontent.com/96726437/185202536-0ba2de7e-80e9-4bae-b63c-41122a4a9333.jpg)
 
-Movies According to Channels and According to  you Interest.
 
-![Uploading Screenshot_2022-08-17-20-40-15-772_com.example.hotstarui.jpg…]()
+ Movies According to Channels and According to  you Interest.
+
+![Screenshot_2022-08-17-20-40-15-772_com example hotstarui](https://user-images.githubusercontent.com/96726437/185202608-eeefd1a3-131e-4a8f-8682-fa059a6ad182.jpg)
+
 
 
 
